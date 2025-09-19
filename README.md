@@ -1,5 +1,8 @@
 Hi 👋, I'm Ankit Rathore 
-**A passionate Web developer|| Frontend developer|| From India**
+
+| A passionate Web developer| Full stack developer| From India |
+
+| Frontend developer| Backend developer| MERN Stack |
 
 Email Me 👉 ✉️ **ankitkumar272005@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
